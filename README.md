@@ -1,0 +1,2 @@
+# YouAreAnIdiot
+Trojan.JS.YouAreAnIdiot
